@@ -1,0 +1,14 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-image: url('../images/hero-bg.jpg');
+    background-size: cover;
+    color: rgb(175, 51, 92);
+}
+
+header h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
